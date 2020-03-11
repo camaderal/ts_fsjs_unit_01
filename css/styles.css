@@ -115,6 +115,14 @@ h1 {
   font-style: normal;
 }
 
+.tags {
+  font-style: italic;
+  font-family: "Arial";
+  text-align: right;
+  margin-right: 4em;
+  text-shadow: 1px 1px 1px rgba(50, 50, 50, 0.3);
+}
+
 @media (min-width: 768px) {
   body {
     padding: 25px;
